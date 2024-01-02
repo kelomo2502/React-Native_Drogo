@@ -1,6 +1,6 @@
 import React from 'react'
 import {SafeAreaView,Text,ImageBackground, StyleSheet, StatusBar, View} from 'react-native'
-import { Feather, AntDesign } from "@expo/vector-icons";
+import { Feather} from "@expo/vector-icons";
 
 
 
